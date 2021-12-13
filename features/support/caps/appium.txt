@@ -1,0 +1,6 @@
+[caps]
+platformName = "Android"
+deviceName = "Pixel 2 API 30"
+app = "c:\\PEP-MOBILE\\app-release.apk"
+appPackage = "sirio.pep.mobile"
+automationName = "uiautomator2"
