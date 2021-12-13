@@ -1,0 +1,5 @@
+[caps]
+platformName  = "Android"
+versionNumber = "1.12"
+deviceName    = "Pixel_XL_API_30"
+app           = "app-release.apk"
